@@ -10,7 +10,7 @@ import (
 
 const (
 	// TIMELIMIT specifies how long to pause between connecting shards.
-	TIMELIMIT = time.Millisecond * 500
+	TIMELIMIT = time.Second * 1
 	// VERSION specifies the shards module version. Follows semantic versioning (semver.org).
 	VERSION = "2.4.0"
 )
