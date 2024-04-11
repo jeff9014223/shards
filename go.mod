@@ -1,4 +1,4 @@
-module github.com/servusdei2018/shards/v2
+module github.com/jeff9014223/shards
 
 go 1.16
 
